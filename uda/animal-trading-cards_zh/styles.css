@@ -1,0 +1,30 @@
+.funny{
+  font-style: italic;
+  display:block;
+}
+.shadow{
+  box-shadow:10px 10px 25px 3px rgba(54,52,54,1);
+}
+.wide{
+  width:500px
+}
+.border-style{
+border:2px solid #FFEBCD;
+  }/* 添加 CSS */
+
+.distance{
+  padding: 2em;
+
+}
+.distance-margin{
+    margin: 2em;
+}
+ul{
+    list-style-type:none;
+}
+ul, li{
+  padding:0px;
+}
+span{
+  font-weight: bold;
+}
